@@ -1,0 +1,1 @@
+from issue_tracker.issue_tracker import IssueTracker
